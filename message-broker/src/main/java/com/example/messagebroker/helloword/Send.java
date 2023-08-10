@@ -1,4 +1,4 @@
-package com.example.messagebroker;
+package com.example.messagebroker.helloword;
 
 import com.rabbitmq.client.ConnectionFactory;
 import com.rabbitmq.client.Connection;
